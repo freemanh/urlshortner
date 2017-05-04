@@ -15,6 +15,4 @@ public class ShortURLUtilTest {
         assertEquals("ba", ShortURLUtil.idToShortURL(62));
         assertEquals("bb", ShortURLUtil.idToShortURL(63));
     }
-
-
 }
