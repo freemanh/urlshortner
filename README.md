@@ -11,5 +11,9 @@
 
 使用hash算法因为可能存在重复，并且通常长度也比较长，不适合该业务场景。
 
+How to use：
+```java
+java com.xxx.urlshortener.Application http://www.sohu.com http://www.163.com
+```
 
 
